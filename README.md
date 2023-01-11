@@ -1,2 +1,0 @@
-# sat-solver
-k
